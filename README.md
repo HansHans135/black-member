@@ -5,9 +5,8 @@
 你可以在list資料夾找到平台
 
 目前支援的有:
-```
-discord
-```
+
+- [discord](https://raw.githubusercontent.com/HansHans135/black-member/main/list/discord.json)
 
 資料說明:
 ```json
